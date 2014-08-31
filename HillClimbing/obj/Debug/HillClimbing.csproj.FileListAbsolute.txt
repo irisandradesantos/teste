@@ -1,0 +1,6 @@
+C:\Users\purpleside\Dropbox\Fullerton\HillClimbing\bin\Debug\HillClimbing.exe.config
+C:\Users\purpleside\Dropbox\Fullerton\HillClimbing\bin\Debug\HillClimbing.exe
+C:\Users\purpleside\Dropbox\Fullerton\HillClimbing\bin\Debug\HillClimbing.pdb
+C:\Users\purpleside\Dropbox\Fullerton\HillClimbing\obj\Debug\HillClimbing.csprojResolveAssemblyReference.cache
+C:\Users\purpleside\Dropbox\Fullerton\HillClimbing\obj\Debug\HillClimbing.exe
+C:\Users\purpleside\Dropbox\Fullerton\HillClimbing\obj\Debug\HillClimbing.pdb
